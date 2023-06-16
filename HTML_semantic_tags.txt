@@ -1,0 +1,8 @@
+List any 5 semantic tags in HTML along with thier descriptions.
+
+<header>: Defines a header for a document or section.
+<nav>: Defines a container for navigation links.
+<main>: Defines the main content of a document.
+<footer>: Defines a footer for a document or sectioning
+<article> - Defines a self-contained section of content on a web page, such as a blog post, news article, or product review.
+

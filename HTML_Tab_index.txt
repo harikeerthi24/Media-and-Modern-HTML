@@ -1,0 +1,6 @@
+Write a short note on tab index.
+
+-The Tab index attribute specifies the tab order of an element (when the “tab” button is used for navigating). 
+-The tabindex attribute can be used to make elements focusable and determine their relative ordering for sequential focus navigation. 
+-When tabindex’s value is set to zero or a positive number, the element can be navigated to via the keyboard’s Tab key
+-It can be used on any HTML element. 

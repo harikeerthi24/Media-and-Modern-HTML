@@ -1,0 +1,14 @@
+List out the features of HTML5.
+
+1.Audio and Video tags-HTML5 allows for the integration of multimedia elements such as audio and
+                        video directly into web pages without the need for plugins like Flash.
+
+2. New graphics elements including vector graphics and tags.
+3. Enrich semantic content by including <header>, <footer>, <article>, <section> and <figure> tags.
+4. New form controls such as date, time, email, url, search.
+5. New input types such as range, color, number, tel.
+6. New attributes such as autofocus, required.
+7. Canvas element for immediate mode 2D drawing.
+8. Offline storage database using SQL.
+9. Web Workers for running scripts in background threads.
+10. Geolocation API for location-aware web applications.
